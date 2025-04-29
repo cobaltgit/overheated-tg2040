@@ -29,7 +29,7 @@
 //System
 #include <stdio.h>
 #include <string.h>
-#include <SDL/SDL.h>
+#include <SDL.h>
 
 //Program
 #include "globalDefines.h"

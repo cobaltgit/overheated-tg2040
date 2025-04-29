@@ -28,7 +28,7 @@
 #endif
 
 //
-#include <SDL/SDL.h>
+#include <SDL.h>
 #include <string.h>
 //
 #include "globalDefines.h"

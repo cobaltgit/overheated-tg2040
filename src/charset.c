@@ -24,7 +24,7 @@
 
 //
 #include <stdio.h>
-#include <SDL/SDL.h>
+#include <SDL.h>
 //
 #include "d_Charset.h"
 

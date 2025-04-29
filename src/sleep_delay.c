@@ -1,6 +1,6 @@
 #include <stdint.h>
 #include <stdlib.h>
-#include <SDL/SDL.h>
+#include <SDL.h>
 #include "globalDefines.h"
 #include "sleep_delay.h"
 #include "video.h"

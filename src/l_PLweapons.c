@@ -27,7 +27,7 @@
 #endif
 
 //
-#include <SDL/SDL.h>
+#include <SDL.h>
 //
 #include "globalDefines.h"
 #include "d_GameObject.h"

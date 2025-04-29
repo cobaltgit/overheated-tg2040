@@ -28,7 +28,7 @@
 #include <stdlib.h>
 #include <cMath.h>
 #include <string.h>
-#include <SDL/SDL.h>
+#include <SDL.h>
 //
 #include "globalDefines.h"
 #include "SDL_utils.h"
